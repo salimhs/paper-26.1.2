@@ -1,0 +1,28 @@
+# Server JAR (download from Releases)
+server.jar
+
+# World data
+world/
+world_nether/
+world_the_end/
+
+# Runtime
+logs/
+crash-reports/
+*.log
+hs_err_*.log
+libraries/
+versions/
+cache/
+.cache/
+eula.txt
+
+# Player data
+usercache.json
+banned-ips.json
+banned-players.json
+
+# Editor
+.idea/
+*.swp
+.DS_Store
